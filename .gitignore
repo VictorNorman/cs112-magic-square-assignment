@@ -1,0 +1,4 @@
+*.o
+*.gch
+magic_square
+a.out
