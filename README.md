@@ -1,3 +1,1 @@
-# cs112-magic-square-assignment
-
-## project 2
+# cs112-lab12-assignment
