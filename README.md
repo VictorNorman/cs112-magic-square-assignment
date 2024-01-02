@@ -1,1 +1,1 @@
-# cs112-lab12-assignment
+# cs112-proj2: Magic Square
